@@ -1,0 +1,20 @@
+#sidebar{
+    background-color: #564dff;
+    min-height: 100vh;
+    a {
+      color: rgb(255, 255, 255);
+      font-size: 12pt;
+      font-style: normal;
+      font-weight: normal;
+      text-decoration-line: none;
+    }
+  
+    a.active {
+      font-weight: bold;
+    }
+  
+    .navbar-expand .navbar-nav {
+      flex-direction: column;
+    }
+  }
+  

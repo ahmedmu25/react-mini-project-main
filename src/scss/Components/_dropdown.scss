@@ -1,0 +1,21 @@
+.arrow-down {
+    width: 0; 
+    height: 0; 
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    
+    border-top: 6px solid hsl(0,0%,60%);
+  }
+
+  .select-special{
+    position: relative;
+    min-width: 150px;
+    max-width: 170px;
+    max-height: 38px;
+  }
+
+  .drop-down-icon{
+    display: inline-block;
+    margin-right: 10px;
+    width: 10px;
+  }

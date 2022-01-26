@@ -1,0 +1,24 @@
+header {
+    background: white;
+    img {
+      border: none;
+      display: block;
+      height: 42px;
+      width: auto;
+    }
+  }
+  
+  .btn-outline-success:hover {
+    color:rgb(26, 24, 24);
+    background-color: #02ffcf;
+    border-color: #828986;
+}
+.btn-outline-success {
+  color: #02ffcf;
+  border-color: #02ffcf;
+  font-weight: 600;
+}
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+  }
